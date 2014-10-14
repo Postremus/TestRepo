@@ -10,11 +10,11 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>cd-snapshot</id>
-			<url>file:///var/www/test/Postremus/</url>
+			<url>file:///var/www/postremus/maven/</url>
 		</snapshotRepository>
 		<repository>
 			<id>cd-release</id>
-			<url>file:///var/www/test/Postremus/</url>
+			<url>file:///var/www/postremus/maven/</url>
 		</repository>
 	</distributionManagement>
 </project>
